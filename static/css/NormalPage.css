@@ -1,1 +1,22 @@
+/*
+Palette Colors as example:
+HEX
+F0B67F
+FE5F55
+D6D1B1
+C7EFCF
+EEF5DB
+*/
+body {
+  background-color: lightblue;
+}
 
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
