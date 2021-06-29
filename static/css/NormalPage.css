@@ -1,19 +1,19 @@
 /*
 Palette Colors as example:
 HEX
-F0B67F
-FE5F55
-D6D1B1
-C7EFCF
-EEF5DB
+F0B67F  name: PalColors1
+FE5F55  name: PalColors2
+D6D1B1  name: PalColors3
+C7EFCF  name: PalColors4
+EEF5DB  name: PalColors5
 */
 body {
-  background-color: #F0B67F;
+  background-color: #F0B67F; /*Will be replaced by background-image*/
 }
 
 h1 {
-  color: white;
-  text-align: center;
+  color: white; /*Will be replaced by background-image*/
+  text-align: center; /*Will be replaced by background-image*/
 }
 
 p {
