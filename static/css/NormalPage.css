@@ -12,8 +12,8 @@ body {
 }
 
 h1 {
-  color: white; /*Will be replaced by background-image*/
-  text-align: center; /*Will be replaced by background-image*/
+  color: white; 
+  text-align: center; 
 }
 
 p {
