@@ -1,15 +1,16 @@
 /*
 Palette Colors as example:
 HEX
-F0B67F  name: PalColors1
-FE5F55  name: PalColors2
-D6D1B1  name: PalColors3
-C7EFCF  name: PalColors4
-EEF5DB  name: PalColors5
+F0B67F  Background name: PalColors1
+FE5F55  Button name: PalColors2
+D6D1B1  Text name: PalColors3
+C7EFCF  Text name: PalColors4
+EEF5DB  Text name: PalColors5
 */
 body {
   background-color: #F0B67F; /*Will be replaced by background-image*/
 }
+
 
 h1 {
   color: white; 
