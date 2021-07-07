@@ -11,13 +11,18 @@ body {
   background-color: #F0B67F; /*Will be replaced by background-image*/
 }
 
+li {
+  color: #C7EFCF
+  
+}
 
 h1 {
-  color: white; 
+  color: #C7EFCF; 
   text-align: center; 
 }
 
 p {
+  color: #D6D1B1;
   font-family: verdana;
   font-size: 20px;
 }
